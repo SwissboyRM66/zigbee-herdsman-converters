@@ -248,6 +248,7 @@ import {definitions as niviss} from "./niviss";
 import {definitions as nobo} from "./nobo";
 import {definitions as nodieby} from "./nodieby";
 import {definitions as nodon} from "./nodon";
+import {definitions as knockautx} from "./knockautx";
 import {definitions as nordtronic} from "./nordtronic";
 import {definitions as nous} from "./nous";
 import {definitions as novaDigital} from "./nova_digital";
@@ -819,6 +820,7 @@ const definitions: DefinitionWithExtend[] = [
     ...engo,
     ...vsmart,
     ...manhot,
+    ...knockautx,
 ];
 
 export default definitions;
